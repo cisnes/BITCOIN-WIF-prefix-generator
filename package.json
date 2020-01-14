@@ -1,0 +1,24 @@
+{
+  "name": "bitcoin-wif-prefix-generator",
+  "version": "1.0.0",
+  "description": "BITCOIN WIF-prefix generator",
+  "main": "index.js",
+  "dependencies": {
+    "cyberchef": "^9.12.0",
+    "randomatic": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cisnes/BITCOIN-WIF-prefix-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cisnes/BITCOIN-WIF-prefix-generator/issues"
+  },
+  "homepage": "https://github.com/cisnes/BITCOIN-WIF-prefix-generator#readme"
+}
