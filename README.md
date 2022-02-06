@@ -1,6 +1,7 @@
 # BITCOIN WIF-prefix generator
 
-Node.js script to calculate and find valid WIF prefixes for Bitcoin addresses. 
+Node.js script to calculate and find valid prefixes for Bitcoin addresses. Script will output the following:
+Decimal prefix, Hexprefix, WIF-Prefix(compressed pubkey), WIF-Prefix(uncompressed pubkey). 
 
 Clone
 Install dependencies with `npm install`
