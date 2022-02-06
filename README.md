@@ -1,4 +1,4 @@
-#BITCOIN WIF-prefix generator
+# BITCOIN WIF-prefix generator
 
 Node.js script to calculate and find valid WIF prefixes for Bitcoin addresses. 
 
